@@ -2,7 +2,7 @@ Shopping Cart
 
 A mock online store built with React. Browse products, choose quantities, add them to your cart, and adjust or remove them on the cart page. There's no checkout or payment, since it's a practice project.
 
-Live demo: ('shopping-cart-eosin-iota-35.vercel.app')
+Live demo: ('https://shopping-cart-eosin-iota-35.vercel.app')
 
 Features :
 Three pages (Home, Shop, Cart) with a sticky navigation bar on all of them
